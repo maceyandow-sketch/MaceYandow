@@ -16,4 +16,4 @@ Cybersecurity student at the **University of Tampa** (Class of 2028). I'm buildi
 - **Personal Finance Tracker** — Python CLI with CSV storage, input validation, matplotlib charts, and budget comparisons
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/maceyandow/) ·maceyandow@gmail.com
+[LinkedIn](https://www.linkedin.com/in/maceyandow/) · maceyandow@gmail.com
